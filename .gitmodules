@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "AGSDest"]
+	path = AGSDest
+	url = https://github.com/cran/AGSDest
+	shallow = true
+	registered = true
 [submodule "permGS"]
 	path = permGS
 	url = https://github.com/mbrueckner/permgs
